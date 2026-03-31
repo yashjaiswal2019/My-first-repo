@@ -3,7 +3,7 @@
 using namespace std;
 int main()
 {   
-    float num1,num2,num3;
+    float num1,num2,num3; //used float datatype for precision
     cout<<"value of first number : ";
     cin>>num1;
 
