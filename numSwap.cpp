@@ -8,7 +8,7 @@ cin>>a;
 
 cout<<"B: ";
 cin>>b;
-
+//swapping the numbers
 c=a;
 a=b;
 b=c;
