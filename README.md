@@ -1,4 +1,4 @@
 # My-first-repo
-Hello World , this is Yash this is my very first github profile and repo , i am very excited !!
-<bg>
+Hello World , this is Yash this is my very first git Repository. I am very excited !!
+<br>
 Author- Yash Jayasaval
