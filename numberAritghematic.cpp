@@ -12,8 +12,8 @@ int main()
 
     cout<<"sum of two numbers = "<<num1+num2<<endl;         //addition
     cout<<"difference of two numbers = "<<num1-num2<<endl;  //difference
-    cout<<"num1/num2 = "<<num1/num2<<endl;
-    cout<<"num2/num1 = "<<num2/num1<<endl;
+    cout<<"num1/num2 = "<<num1/num2<<endl;                  //division            
+    cout<<"num2/num1 = "<<num2/num1<<endl;                  //division
     cout<<"product of two numbers = "<<num1*num2<<endl;     //multiplies two numbers
 
     //swapping numbers 
