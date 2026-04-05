@@ -14,17 +14,22 @@ int main()
             cout<<j;
         }
         else {
-            switch (j){
+            if (j==n){
+                cout<<n;
+            }
+            else {
+                switch (j){
                 case 1:
                 cout<<"1";
                 break;
 
-                case n:         //This is the limitation of switch if can only compare those values which were available at time of compilation.
-                cout<<n;        // it cannot compare variables. values like num+1 or etc.
-                break;
+                //case n:         //This is the limitation of switch if can only compare those values which were available at time of compilation.
+                //cout<<n;        // it cannot compare variables. values like num+1 or etc.
+                //break;
 
                 default:
                 cout<<" ";
+            }
             }
         }
         }
