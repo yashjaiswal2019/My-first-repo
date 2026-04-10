@@ -41,8 +41,4 @@ int main()
     for(int element:arr){
         cout<<element<<" ";
     }
-
-
-
-
 }
