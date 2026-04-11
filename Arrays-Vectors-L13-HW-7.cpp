@@ -2,7 +2,7 @@
 //basically you can only take one element only once 
 //constraint -> can not have 3 loops.
 
-//i am thinking can i write bruteforce without constraint
+//I am thinking can i write bruteforce without constraint
 
 #include <iostream>
 #include <vector>
