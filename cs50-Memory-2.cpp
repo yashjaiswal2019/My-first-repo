@@ -1,6 +1,5 @@
 #include <iostream>
 #include <cstdlib>
-#include <cs50.h>
 using namespace std;
 
 int main()
