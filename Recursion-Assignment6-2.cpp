@@ -22,7 +22,7 @@ int main()
     int arr[] ={5,4,3,2,1};
     int size = sizeof(arr) / sizeof(arr[0]);
 
-    printsumTriangle(arr , size);
+    printsumTriangle(arr , 0, size);
 }
 
 void printsumTriangle(int *arr ,int idx, int size){
